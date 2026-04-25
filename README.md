@@ -36,6 +36,14 @@ I specialize in building scalable web applications and solving complex algorithm
 <img src="https://skillicons.dev/icons?i=cpp,nextjs,react,ts,js,nodejs,express,prisma,postgres,aws,docker,kubernetes,git,linux,postman&theme=dark" />
 </p>
 
+
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp6702707.jpg" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
+
+

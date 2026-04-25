@@ -1,6 +1,4 @@
-# Vishal Kumar Geed! 
-
-### Software Developer | Full-Stack & DevOps Enthusiast
+# Software Developer | Full-Stack & DevOps Enthusiast
 I specialize in building scalable web applications and solving complex algorithmic problems. I am passionate about open-source and frequently contribute to organizational repositories to improve developer workflows.
 
 ---

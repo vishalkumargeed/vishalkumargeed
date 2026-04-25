@@ -31,6 +31,16 @@ I specialize in building scalable web applications and solving complex algorithm
 * **WSL** guidance on download page — [PR](https://github.com/nodejs/nodejs.org/pull/7757)
 
 ---
+### Technologies & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,nextjs,react,ts,js,nodejs,express,prisma,postgres,aws,docker,kubernetes,git,linux,postman&theme=dark" />
+</p>
+---
+### Contribution Trend
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumargeed&theme=minimal&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />

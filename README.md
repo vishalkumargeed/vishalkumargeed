@@ -1,17 +1,7 @@
-# Hi there, I'm Vishal! 👋
+# Vishal Kumar Geed! 
 
 ### Software Developer | Full-Stack & DevOps Enthusiast
 I specialize in building scalable web applications and solving complex algorithmic problems. I am passionate about open-source and frequently contribute to organizational repositories to improve developer workflows.
-
----
-
-### 🛠 Tech Stack & Tools
-
-- **Languages:** C++, JavaScript, TypeScript, SQL
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Prisma ORM, Node.js, PostgreSQL, Redis
-- **DevOps:** Docker, Docker Compose, Git, Unix/Linux Environments
-- **AI/ML:** Integration with Gemini, AssemblyAI, and automation tools
 
 ---
 ## Open Source Contributions

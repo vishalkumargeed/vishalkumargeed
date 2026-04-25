@@ -1,7 +1,7 @@
 # Software Developer | Full-Stack & DevOps Enthusiast
 I specialize in building scalable web applications and solving complex algorithmic problems. I am passionate about open-source and frequently contribute to organizational repositories to improve developer workflows.
 
----
+
 ## Open Source Contributions
 
 ### 1. Documenso
@@ -30,7 +30,6 @@ I specialize in building scalable web applications and solving complex algorithm
 * Externalize labels and consonants to **JSON** file — [PR](https://github.com/nodejs/nodejs.org/pull/7750)
 * **WSL** guidance on download page — [PR](https://github.com/nodejs/nodejs.org/pull/7757)
 
----
 ### Technologies & Infrastructure
 
 <p align="left">

@@ -36,6 +36,7 @@ I specialize in building scalable web applications and solving complex algorithm
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,nextjs,react,ts,js,nodejs,express,prisma,postgres,aws,docker,kubernetes,git,linux,postman&theme=dark" />
 </p>
+
 ---
 ### Contribution Trend
 <p align="center">

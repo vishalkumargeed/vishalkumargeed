@@ -7,7 +7,7 @@ I specialize in building scalable web applications and solving complex algorithm
 ### 1. Documenso
 * Added validation via **tRPC**, by avoiding alterations to the **Prisma Schema** — [PR](https://github.com/documenso/documenso/pull/2727)
 * Malware scanning for Uploaded documents using the [EICAR](https://www.eicar.org/download-anti-malware-testfile/) standard by using [Clamav](https://docs.clamav.net/) — [PR](https://github.com/documenso/documenso/pull/2719)
-* Exposing internal "QR share links" via **UI** and **API**: *Currently working*
+* Exposing internal "QR share links" via **UI** and **API**: [PR](https://github.com/documenso/documenso/pull/2744)
 
 ### 2. Cal.com - [Closed Source](https://cal.com/blog/cal-com-goes-closed-source-why) (16th April 2026)
 * Preserve username and handler conflicts during organization deletion — [PR](https://github.com/calcom/cal.diy/pull/28922)

@@ -1,3 +1,6 @@
+## About me video :
+https://youtu.be/aexmwEqD6nw?si=i1biMBF43Fa8VZ58
+
 # Software Developer | Full-Stack & DevOps Enthusiast
 I specialize in building scalable web applications and solving complex algorithmic problems. I am passionate about open-source and frequently contribute to organizational repositories to improve developer workflows.
 
